@@ -7,6 +7,10 @@
     <title>@yield('title-page', 'Index')</title>
 </head>
 <body>
-    <h1>Hello World</h1>
+    @include('component.nav')
+    @include('component.main')
+    @include('component.footer')
+
+    {{-- @include('resources.js.myScript') --}}
 </body>
 </html>
