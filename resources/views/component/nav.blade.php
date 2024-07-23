@@ -1,14 +1,16 @@
 <nav>
-    <img src="../../img/favicon.jpg" alt="Logo">
+    <a href="">
+        <img src="http://127.0.0.1/laravel-base-crud/resources/img/favicon.jpg" alt="Logo">
+    </a>
     <ul>
         <li>
-            <a href="" target="_blank" rel="noopener noreferrer">Varie</a>
+            <a href="/Varie" target="_blank" rel="noopener noreferrer">varie</a>
         </li>
         <li>
-            <a href="" target="_blank" rel="noopener noreferrer">Chi_sono</a>
+            <a href="/Chi_sono" target="_blank" rel="noopener noreferrer">chi sono</a>
         </li>
         <li>
-            <a href="" target="_blank" rel="noopener noreferrer">Contatti</a>
+            <a href="/Contatti" target="_blank" rel="noopener noreferrer">contatti</a>
         </li>
     </ul>
 </nav>
