@@ -1,7 +1,7 @@
 <main>
     <header>
         <section>
-            <h1>@yield('title-page', 'Title_Page')</h1>
+            <h1>@yield('title-page', 'Index')</h1>
         </section>
     </header>
     <section>
